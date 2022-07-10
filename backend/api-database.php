@@ -3,7 +3,7 @@
 define("CONFIG_DATABASE_HOST", "localhost");
 define("CONFIG_DATABASE_PORT", "3306");
 define("CONFIG_DATABASE_USER", "walrus");
-define("CONFIG_DATABASE_PASS", "12luglio");
+define("CONFIG_DATABASE_PASS", "password");
 define("CONFIG_DATABASE_NAME", "voxel");
 
 $databaseConnection = new PDO(
